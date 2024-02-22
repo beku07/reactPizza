@@ -1,0 +1,64 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/f1bfe70738734257aa8c5db4ef900d09_366x366.webp",
+        "title": "Мясное",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 803,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/3ef50ae6706e4988bb7b3d16cd6990ee_366x366.webp",
+        "title": "Двойной цыпленок",
+        "types": [0],
+        "sizes": [30, 40],
+        "price": 505,
+        "category": 0,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/11e1ff972c5242cca0816774b4895e74_366x366.webp",
+        "title": "Додо",
+        "types": [1],
+        "sizes": [26, 40],
+        "price": 230,
+        "category": 0,
+        "rating": 2
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/0c9b1e335a34475da6610a228cbfdb2c_366x366.webp",
+        "title": "Песто",
+        "types": [1],
+        "sizes": [26, 40],
+        "price": 230,
+        "category": 0,
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/7e67df55f25341a4b2785a8c1f784485_366x366.webp",
+        "title": "Карбонара",
+        "types": [1],
+        "sizes": [26, 40],
+        "price": 230,
+        "category": 0,
+        "rating": 2
+    },
+    {
+        "id": 5,
+        "imageUrl": " https://dodopizza-a.akamaihd.net/static/Img/Products/3dd8246ad408419fabfdd886e10587a7_366x366.webp",
+        "title": "Супермясная",
+        "types": [1],
+        "sizes": [26, 40],
+        "price": 230,
+        "category": 0,
+        "rating": 2
+    }
+   
+]
+
