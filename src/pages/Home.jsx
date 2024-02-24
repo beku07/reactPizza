@@ -14,7 +14,6 @@ import { useDispatch, useSelector } from 'react-redux';
 
 
 
-
 const Home = () => {
     const navigate = useNavigate();
     const categoryId = useSelector((state) => state.filter.categoryId);
